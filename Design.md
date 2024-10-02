@@ -43,7 +43,7 @@ Casino chip stacks(throw chips)
 Gold stuff
 Escape 
 
-##Characters: 
+## Characters: 
 [Default] Melee, basic, medium everything
 Ranged: low health, quick, high damage
 Thief: stealth
@@ -55,7 +55,7 @@ Spawn in the back of a van, acts as a character select “screen”. Once a char
 
 
 
-##Card Ideas:
+## Card Ideas:
 - Deflect incoming attack
 - Freeze area
 - Freeze time(un freeze when you attack)
