@@ -8,6 +8,8 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 - Dimensions: 2D but 3D / 3D
 - Graphics Style: Pixel Art 
 - Perspective: Isometric / Top Down
+### Game Start:
+Spawn in the back of a van, acts as a character select “screen”. Once a character is chosen, start the game in first level outside the casino. Climb down a manhole into sewers, where you encounter first enemies. After clearing the first room you will obtain cards for your deck and move on to the next. 
 ###Core Features
 - Pick up new cards for your deck as you play, cards affect you and enemies
 - Player: 3 card hand, 1-2 separate character abilities, 1 default attack, WASD movement, hearts as life
@@ -19,7 +21,6 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 - Interactions: Environmental Hazards, Shopkeeps, treasure chests
 - A shopkeep that can trash some cards in your deck
 - Betting areas where you can gamble health, cards, stats
-
 ### Controls
  - WASD = Movement
  - Left click - Attack/Use active card
@@ -58,13 +59,12 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 4. Escape 
 
 ## Characters: 
-[Default] Melee, basic, medium everything
-Ranged: low health, quick, high damage
-Thief: stealth
-Tanky, slow, heavy attack(charge attack)
-Luck Character 
-Game Start:
-Spawn in the back of a van, acts as a character select “screen”. Once a character is chosen, start the game in first level outside the casino. Climb down a manhole into sewers, where you encounter first enemies. After clearing the first room you will obtain cards for your deck and move on to the next. 
+1. [Default] Melee, basic, medium everything
+2. Ranged: low health, quick, high damage
+3. Thief: stealth
+4. Tanky, slow, heavy attack(charge attack)
+5. Luck Character 
+
 
 
 
