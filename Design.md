@@ -41,23 +41,20 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 
 ### Three Levels
 1. Sewers
-   - First nested list item
-     - Second nested list item
-1. Sewers
-  - Rats
-  - Ladder to Subway/train
-  - Drunk gambler(s) that lost everything (dialogue?)
+   - Rats
+   - Ladder to Subway/train
+   - Drunk gambler(s) that lost everything (dialogue?)
 2. Casino Floor
-  - Bars for shops
-  - Enemies
-    - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
-    - Shuffling Machine, Ranged, Fast attacks, low HP
-    - Slot Machine - Ranged, High HP, Metallic
-    - Low tier Security Guards: Pistol, Medium Damage, Medium Health
-    - Roulette table
-3. Vault (Final Boss) - shakes environment with attacks
-  - Casino chip stacks(throw chips)
-  - Gold stuff
+   - Bars for shops
+   - Enemies
+     - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
+     - Shuffling Machine, Ranged, Fast attacks, low HP
+     - Slot Machine - Ranged, High HP, Metallic
+     - Low tier Security Guards: Pistol, Medium Damage, Medium Health
+     - Roulette table
+3. First list item
+   - Casino chip stacks(throw chips)
+   - Gold stuff
 4. Escape 
 
 ## Characters: 
