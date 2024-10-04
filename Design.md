@@ -20,7 +20,7 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 - A shopkeep that can trash some cards in your deck
 - Betting areas where you can gamble health, cards, stats
 
-###Controls
+### Controls
 - WASD = Movement
 - Left click - Attack/Use active card
 - Right click - Dodge/Roll/Teleport
