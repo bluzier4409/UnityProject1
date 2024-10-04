@@ -21,39 +21,39 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 - Betting areas where you can gamble health, cards, stats
 
 ### Controls
-- WASD = Movement
-- Left click - Attack/Use active card
-- Right click - Dodge/Roll/Teleport
-- Q = Character Unique Ability
-- E = General interact
-- 1-2-3 = Card selection
-- rest of controls TBD.
+ - WASD = Movement
+ - Left click - Attack/Use active card
+ - Right click - Dodge/Roll/Teleport
+ - Q = Character Unique Ability
+ - E = General interact
+ - 1-2-3 = Card selection
+ - rest of controls TBD.
 ##Environment: 
-- Takes place in a casino-themed fictional world.
-- You are trying to rob a casino
-- 3 Levels: (tbd)
-- Sewers
-- Rats
-- Ladder to Subway/train
-- Drunk gambler(s) that lost everything (dialogue?)
-- Casino Floor
-- Bars for shop
-###Three Levels
-1. Sewers
+ - Takes place in a casino-themed fictional world.
+ - You are trying to rob a casino
+ - 3 Levels: (tbd)
+ - Sewers
  - Rats
  - Ladder to Subway/train
  - Drunk gambler(s) that lost everything (dialogue?)
+ - Casino Floor
+ - Bars for shop
+###Three Levels
+1. Sewers
+  - Rats
+  - Ladder to Subway/train
+  - Drunk gambler(s) that lost everything (dialogue?)
 2. Casino Floor
- - Bars for shops
- - Enemies
-  - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
-  - Shuffling Machine, Ranged, Fast attacks, low HP
-  - Slot Machine - Ranged, High HP, Metallic
-  - Low tier Security Guards: Pistol, Medium Damage, Medium Health
-  - Roulette table
+  - Bars for shops
+  - Enemies
+   - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
+   - Shuffling Machine, Ranged, Fast attacks, low HP
+   - Slot Machine - Ranged, High HP, Metallic
+   - Low tier Security Guards: Pistol, Medium Damage, Medium Health
+   - Roulette table
 3. Vault (Final Boss) - shakes environment with attacks
- - Casino chip stacks(throw chips)
- - Gold stuff
+  - Casino chip stacks(throw chips)
+  - Gold stuff
 4. Escape 
 
 ## Characters: 
