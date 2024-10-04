@@ -41,9 +41,12 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 
 ### Three Levels
 1. Sewers
- > - Rats
- > - Ladder to Subway/train
- > - Drunk gambler(s) that lost everything (dialogue?)
+   - First nested list item
+     - Second nested list item
+1. Sewers
+  - Rats
+  - Ladder to Subway/train
+  - Drunk gambler(s) that lost everything (dialogue?)
 2. Casino Floor
   - Bars for shops
   - Enemies
