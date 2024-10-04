@@ -46,11 +46,11 @@ Casino Heist is a real time deck building rogue lite, where the player is trying
 2. Casino Floor
   - Bars for shops
   - Enemies
-   - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
-   - Shuffling Machine, Ranged, Fast attacks, low HP
-   - Slot Machine - Ranged, High HP, Metallic
-   - Low tier Security Guards: Pistol, Medium Damage, Medium Health
-   - Roulette table
+    - Cards - Melee, weak, slow (maybe the cards vary based on their suit and power based on their value)
+    - Shuffling Machine, Ranged, Fast attacks, low HP
+    - Slot Machine - Ranged, High HP, Metallic
+    - Low tier Security Guards: Pistol, Medium Damage, Medium Health
+    - Roulette table
 3. Vault (Final Boss) - shakes environment with attacks
   - Casino chip stacks(throw chips)
   - Gold stuff
